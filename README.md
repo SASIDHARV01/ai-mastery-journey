@@ -6,7 +6,7 @@ A sequential learning and GitHub proof-of-work repository based on the supplied 
 
 **Phase 0 → Math → Topic 1: Linear Algebra → Lesson 1: Vectors.**
 
-Status: onboarding. No lesson, quiz, or project has been completed. The learner knows basic Python and basic mathematics; Python data structures are not yet understood. Study time is 2 hours per day. The initial vectors thinking answer is pending. The first 1–2 months are a study window, not a promise to master the entire roadmap.
+Status: learning vectors. No lesson, quiz, or project has been completed. The learner knows basic Python and basic mathematics; Python data structures are not yet understood. Study time is 2 hours per day. The initial vectors answer is recorded; the lesson and runnable example are available, and five quiz answers are pending. The first 1–2 months are a study window, not a promise to master the entire roadmap.
 
 ## Repository layout
 

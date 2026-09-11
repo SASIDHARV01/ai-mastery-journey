@@ -28,13 +28,15 @@ Last updated: 2026-09-11
 - Source topic: 1 — Linear Algebra.
 - Active lesson: Vectors, the first listed subtopic.
 - Last completed lesson: none.
-- Current status: background and daily availability recorded; initial thinking answer is still pending.
+- Current status: vectors lesson provided; learner execution, five quiz answers, and understanding confirmation are pending.
 - Initial question: A game character moves 3 steps east, then 2 steps north. How would you store that movement using numbers so another person could reproduce it? What would each number mean?
-- Lesson explanation: not started.
-- Quiz: not issued; no answers or review yet.
+- Initial answer: learner identified number and direction; mentor clarified component order and coordinate convention.
+- Lesson explanation: provided, covering components, dimension, addition/subtraction, scaling, length, unit vectors, zero vector, and dot product.
+- Teaching example: example.py executed by the mentor; ordinary arithmetic, unit length, and zero-vector handling checked. Learner execution is not yet confirmed.
+- Quiz: five questions issued in the vectors folder; no learner answers or grading yet.
 - Mini-project: to be assigned after the vectors lesson and quiz; scope 1–3 study days at 2 hours/day (approximately 2–6 hours).
 - Project push: not reported or verified.
-- Next permitted action: respond to the learner's initial reasoning and begin the vectors explanation.
+- Next permitted action: review the learner's five quiz answers and code-run observations, correct gaps, then assign the vectors mini-project.
 - Following lesson: matrices, locked until the vectors checks pass.
 
 ## Current lesson completion checks

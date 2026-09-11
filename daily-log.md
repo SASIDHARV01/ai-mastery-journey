@@ -31,3 +31,19 @@ Keep one entry per study day. Do not invent study time, results, or commit links
 - Full starter commit: [50c48b6](https://github.com/SASIDHARV01/ai-mastery-journey/commit/50c48b6181768333aedceb27b2c8d1fe4fb8ae96).
 - Push status: independently verified on main; all 21 remote starter files matched their local contents.
 - Learning result: no quiz answered, project completed, or topic mastered yet.
+
+
+## 2026-09-11 — Vectors lesson, before quiz review
+
+- Exact phase / source topic / lesson: Phase 0 / Linear Algebra / Vectors.
+- Learner input: "we need to represent the number and direction to make the meaning of this question".
+- Mentor feedback: correct ingredients for a movement; added an explicit east/west-first, north/south-second component convention.
+- Work added: a full vectors lesson, runnable example, its actual output, and five unanswered quiz questions.
+- Verification: the mentor ran the example and checked arithmetic, unit-vector length, and zero-vector handling.
+- Authorship: learner's initial answer is preserved verbatim; explanation, example, and questions were prepared by the mentor.
+- Learner study time and code execution: not measured or confirmed.
+- Quiz: awaiting five answers; not passed.
+- Project: not yet assigned; awaits quiz review.
+- Commit message: `docs(p00-vectors): add lesson, runnable example, and quiz`.
+- Publication evidence: see this entry's commit in GitHub file history; the mentor verifies the branch and file contents after publication.
+- Learning result: topic remains in progress; no mastery claim.
